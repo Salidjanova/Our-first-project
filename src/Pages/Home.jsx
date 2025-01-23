@@ -23,11 +23,11 @@ const Home = () => {
 
         </ul>
         <h1 className='mt-[300px] text-white text-[58px] text-center font-[script]'>Catering should be an experience</h1>
-        <h1 className='text-[60px] text-white w-[900px] text-center ml-[180px] font-medium'> We use only the finest and
+        <h1 className='text-[60px] text-white w-[750px] text-center ml-[260px] font-medium'> We use only the finest and
         freshest ingredients </h1>
-        <p className='text-center mt-[34px] text-white font-normal text-[18px]'> At Sway catering we know that food is an important part of life.
+        <p className='text-center mt-[34px] text-white font-normal text-[18px] w-[541px] ml-[370px]'> At Sway catering we know that food is an important part of life.
         If the meal is not perfect, your event cannot be perfect. </p>
-        <button className='btn bg-[#00D664] text-white text-[18px] rounded-full h-[60px] w-[190px] ml-[500px] mt-[40px]'>Request a Quote</button>
+        <button className='btn bg-[#00D664] text-white text-[18px] rounded-full h-[60px] w-[190px] ml-[540px] mt-[40px]'>Request a Quote</button>
       </div>
     </div>
   )
